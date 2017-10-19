@@ -6,7 +6,7 @@ public class conflic : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        Debug.Log("helo");
+        Debug.Log("helfasdfo");
 	}
 	
 	// Update is called once per frame
